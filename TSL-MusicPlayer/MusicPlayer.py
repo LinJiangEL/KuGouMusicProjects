@@ -10,7 +10,7 @@ import glob
 import tkinter.messagebox
 from tkinter import *
 from tkinter import filedialog
-from typing import *
+from typing import List, Any
 from win32com.client import Dispatch
 from icon import iconbase
 from mainmusic import musicbase
