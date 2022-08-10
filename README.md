@@ -18,14 +18,13 @@ It just a `local` script, and will not require install.
 它仅仅作为一个本地的脚本来运行，无需安装。
 
 
-# Author
-China, Jiangsu, XvZhou  
-Explorer Network Lab.  
-`LinJiang-XV101`
-
-Contact:  
-QQ    : 1633251707  
-Email : 1633251707@qq.com  
+# Join us
+We are Explorer Network Lab. members. If you want to join us, please use the contact.  
+```
+QQ      : 1633251707
+Email   : linjiangxv101@qq.com
+QQGroup : 674914317 (Explorer Network Lab. 扩招A部)
+```
 
 # 免责声明（中文版）
 1、KuGouMusicProjects（以下简称“本产品”）为免费软件产品，产品软件之`著作权`归`软件原作者`所有。您可以自由选择是否使用本产品软件。如果用户安装产品免费软件，即表明用户信任该软件作者，本实验室对任何原因在使用产品免费软件时可能对用户造成的损害不承担责任。  
